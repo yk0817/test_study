@@ -2,4 +2,4 @@ language: python
 python:
   - "3.5"
 script:
-  - py_test.py
+  - python py_test.py
